@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 <p align="center">
   <img src="https://github.com/joaoaapinho/car-distractions-image-classification/assets/114337279/d6060226-b9cb-46ba-af04-625e9a1d4cb5" alt="Small logo" width="20%">
 </p>
@@ -110,3 +111,6 @@ Despite this all models, barring Model 5 (possibly due to a short number of epoc
 🕵️‍♀️ **Advanced Hyperparameter Tuning Techniques:** Techniques like Grid Search or Random Search can systematically explore many combinations of parameters to find the ones with the best performance.
 
 🏗️ **Experiment with Different Architectures:** Trying out different architectures, especially those successful in similar tasks, could provide beneficial insights and improve the model's robustness and accuracy.
+=======
+# car-distractions
+>>>>>>> 2d0927b206e82f71143dd01c30d6a1b9266ac62c
