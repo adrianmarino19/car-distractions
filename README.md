@@ -4,7 +4,7 @@
 
 <h2> 👁‍🗨 Overview </h2>
 
-<h3>🏢 Assignment Description</h3>
+<h3>🏢 Project Description</h3>
 
 In this assignment we are given driver images, each taken in a car with a driver doing something in the car (texting, eating, talking on the phone, makeup, reaching behind, etc). The goal is to predict what the driver is doing in each picture.
 
